@@ -1,7 +1,9 @@
-# Discord.js v12 backup botu
+# Discord.js v14 welcome botu
 
-**Discord sunucularınızı save alıp aldığınız saveleri istediğiniz sunucuya tekrar yükleyebilirsiniz.**
+**Discord sunucunuzda bom boş seste duran ve oynuyor kısımları olan botları bu tek altyapıda açık tutabilirsiniz, config kısmına farklı tokenler ekleyerek daha çok bot çalıştırmasını ve sese sokmasını sağlayabilirsiniz.**
 
+# Bu bot özel istek üzerine yapılmıştır.
+[![Discord Istek](https://cdn.discordapp.com/attachments/1173319481599213639/1253628750138970112/image.png?ex=66768c41&is=66753ac1&hm=32cba3cfb9a807ebd27dbfde0f47ae88aff05057fa087c5cd61f449e96c93977&)](https://discord.gg/bdfd)
 
 ## Kurulum
 1. **Ayarlar Dosyasını Düzenleyin:**
